@@ -9,3 +9,6 @@ consumidor.
 - [@martins107](https://www.github.com/martins107)
 - [@Mariohg107](https://www.github.com/Mariohg107)
 - [@JuanjoMorales](https://www.github.com/JuanjoMorales)
+
+## 🛠 Skills
+Xcode, Swift, Laravel, PHP, Figma, Adobe Illustrator, Gira.
